@@ -1,0 +1,91 @@
+.murka-menu{
+	background-color: #259055;
+	text-align: center;	
+}
+.murka-menu a{
+	color: #fff;
+	text-decoration: none;
+	padding: 10px 20px;
+	display: inline-block;
+	font-size: 20px;	
+}
+body{
+	margin: 0;
+}
+.murka-header123{
+	background-image: url(images/background.jpg);
+	padding: 200px 0px;
+	text-align: center; 
+	position: relative;
+}
+.murka-header123 .murka-parakraf{
+	position: absolute;
+	right: 50px;
+	bottom: 10px;
+}
+.murka-spisok123{
+	background-color: #7AB27D;
+	padding: 40px 0px;
+}
+h2{
+	text-align: center;
+	color: #B51F1F;
+	text-decoration: underline;
+	margin: 0;
+}
+.murka-spisok123 .almaz{
+	font-weight: bold;
+	padding: 10px;
+}
+.murka-spisok123 .krivoi_li{
+	font-style: italic;
+	padding: 10px;
+}
+img{
+	border:3px solid;
+	text-align: center;
+	margin: 20px;
+}
+.murka-img1{
+	border-color: red;
+}
+.murka-img2{
+	border-color:blue ;
+}
+.murka-img3{
+	border-color:green ;
+}
+.murka-img4{
+	border-color:yellow ;
+}
+.murka-gallereyi123{
+	text-align: center;
+	padding: 40px 0;
+}
+.soobshenie{
+	background-color:#7AB27D ;
+	padding: 50px 0;
+}
+.soobshenie form{
+	border: 4px double green;
+	border-radius: 10px;
+	width: 500px;
+	padding: 10px;
+	text-align: center;
+	margin: 20px auto;
+}
+input,select,textarea{
+	width: 300px;
+	border-radius: 8px;
+	outline: none;
+	border-color:#1abc9c ;
+	padding: 15px;
+	margin: 5px;
+}
+label{
+	display: block;
+}
+input[type=submit]{
+	background-color: red;
+	color: #AEFF00;
+}
